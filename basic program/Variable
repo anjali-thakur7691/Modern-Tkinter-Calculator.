@@ -1,0 +1,8 @@
+name = "Anjali"
+age = 25
+price = 25.99
+print(name)
+#print("my name is:", name)
+
+#print("my age is:", age)
+print("my price is:", price)
