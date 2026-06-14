@@ -1,4 +1,5 @@
 # 📱 Modern Dark-Themed Calculator
+![Calculator Screenshot](Screenshot.png)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green?style=for-the-badge)
